@@ -39,20 +39,20 @@ hr{
 
 }
 
-.correctL+P{
+.correct{
     background-color: rgb(66, 138, 33);
     color: white;
     border-color: white;
 
 }
 
-.correctLwrongP{
+.present{
     background-color: goldenrod;
     color:white;
     border-color: white;
 }
 
-.wrongL{
+.absent{
     background-color: gray;
     color: white;
     border-color: white;
